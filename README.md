@@ -34,9 +34,9 @@
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-<img src="https://raw.githubusercontent.com/emycspri/emycspri/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/emycspri/count.svg?"  />
+</div>
 
 <div align="center">  
   <img width="300px" height="250px" src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif"/> 
