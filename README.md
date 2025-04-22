@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=370096&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a069ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emily+Cristina;I'm+16+years+old;I+study+systems+development+at+Etec+Zona+Leste;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a069ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emily+Cristina;I'm+17+years+old;I+study+systems+development+at+Etec+Zona+Leste;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emycspri&show_icons=true&count_private=true&hide_border=true&title_color=5d00ff&icon_color=5d00ff&text_color=a069ff&bg_color=0d1117" alt="Emily Cristina dos Santos Primo github stats" /> 
@@ -33,6 +33,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+<img src="https://raw.githubusercontent.com/emycspri/emycspri/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">  
   <img width="300px" height="250px" src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif"/> 
